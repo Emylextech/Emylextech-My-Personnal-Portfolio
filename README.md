@@ -1,2 +1,25 @@
-# Emylextech-My-Personnal-Portfolio
-My personnal website  is where you can be able to reach out to me to build and manage your website and its also fully responsive both on desktop view, tablet view and mobile view.
+Personal Developer Portfolio
+
+A personal portfolio website showcasing my web development skills, projects and professional background.
+
+Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+Features
+
+* Responsive website design
+* About Me section
+* Projects showcase
+* Contact information
+* Social media links
+
+Live Website
+
+https://emylextech.github.io/My-Personnal-Portfolio/
+
+Developer
+
+Opara Emmanuel uchechukwu
